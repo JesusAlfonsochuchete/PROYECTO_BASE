@@ -1,0 +1,136 @@
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe.config
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.pdb
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.AssemblyReference.cache
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.Form1.resources
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.Properties.Resources.resources
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.GenerateResource.cache
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.CoreCompileInputs.cache
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.exe
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.pdb
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\Google.Protobuf.dll
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\MySql.Data.dll
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\System.Buffers.dll
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\System.IO.Pipelines.dll
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\System.Memory.dll
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\ZstdSharp.dll
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\Google.Protobuf.pdb
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\Google.Protobuf.xml
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\MySql.Data.xml
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\System.Buffers.xml
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\System.IO.Pipelines.xml
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\System.Memory.xml
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.TIENDA.resources
+C:\Users\max_u\source\repos\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.Up2Date
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.csproj.AssemblyReference.cache
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.exe
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.pdb
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\PuntoVenta.exe.config
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\PuntoVenta.exe
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\PuntoVenta.pdb
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\Google.Protobuf.dll
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\MySql.Data.dll
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Buffers.dll
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.IO.Pipelines.dll
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Memory.dll
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\ZstdSharp.dll
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\Google.Protobuf.pdb
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\Google.Protobuf.xml
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\MySql.Data.xml
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Buffers.xml
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.IO.Pipelines.xml
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Memory.xml
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.Form1.resources
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.Properties.Resources.resources
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.TIENDA.resources
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.csproj.GenerateResource.cache
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.csproj.CoreCompileInputs.cache
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.csproj.Up2Date
+C:\Users\max_u\Desktop\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.Nota.resources
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\PuntoVenta.exe.config
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\PuntoVenta.exe
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\PuntoVenta.pdb
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\Google.Protobuf.dll
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\MySql.Data.dll
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Buffers.dll
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.IO.Pipelines.dll
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Memory.dll
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\ZstdSharp.dll
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\Google.Protobuf.pdb
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\Google.Protobuf.xml
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\MySql.Data.xml
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Buffers.xml
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.IO.Pipelines.xml
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Memory.xml
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.csproj.AssemblyReference.cache
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.Clientes.resources
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.Clientes1.resources
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.Form1.resources
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.Nota.resources
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.Properties.Resources.resources
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.TIENDA.resources
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.csproj.GenerateResource.cache
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.csproj.CoreCompileInputs.cache
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.csproj.Up2Date
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.exe
+C:\Users\max_u\Desktop\GERMAN BD\PROYECTO UNIDAD 4\PuntoVenta\obj\Debug\PuntoVenta.pdb

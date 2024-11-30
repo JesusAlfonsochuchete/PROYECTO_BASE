@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|c:\\users\\max_u\\desktop\\german bd\\proyecto unidad 4\\puntoventa\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|c:\\users\\max_u\\desktop\\german bd\\proyecto unidad 4\\puntoventa\\clientes1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\clientes1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|c:\\users\\max_u\\desktop\\german bd\\proyecto unidad 4\\puntoventa\\clientes1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\clientes1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\puntoventa\\tiendacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\tiendacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\puntoventa\\tiendacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\tiendacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\puntoventa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|c:\\users\\max_u\\desktop\\german bd\\proyecto unidad 4\\puntoventa\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|c:\\users\\max_u\\desktop\\german bd\\proyecto unidad 4\\puntoventa\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\puntoventa\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\puntoventa\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|c:\\users\\max_u\\desktop\\german bd\\proyecto unidad 4\\puntoventa\\logindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\logindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|c:\\users\\max_u\\desktop\\german bd\\proyecto unidad 4\\puntoventa\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|c:\\users\\max_u\\desktop\\german bd\\proyecto unidad 4\\puntoventa\\salesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\salesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\puntoventa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|c:\\users\\max_u\\desktop\\german bd\\proyecto unidad 4\\puntoventa\\basedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D835224-9FF6-4566-9F31-AF0EDB77D1AE}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\basedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{244df7ea-d757-4b52-b92c-efd2d3402c91}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\ProductDAO.cs",
+              "RelativeToolTip": "PuntoVenta\\ProductDAO.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:28:23.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SalesDAO.cs",
+              "DocumentMoniker": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\SalesDAO.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\SalesDAO.cs",
+              "ToolTip": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\SalesDAO.cs",
+              "RelativeToolTip": "PuntoVenta\\SalesDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:21:18.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clientes1.cs",
+              "DocumentMoniker": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\Clientes1.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\Clientes1.cs",
+              "ToolTip": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\Clientes1.cs",
+              "RelativeToolTip": "PuntoVenta\\Clientes1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:19:15.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clientes1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\Clientes1.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\Clientes1.cs",
+              "ToolTip": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\Clientes1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PuntoVenta\\Clientes1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:08:41.743Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\Clientes.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\Clientes.cs",
+              "ToolTip": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\Clientes.cs",
+              "RelativeToolTip": "PuntoVenta\\Clientes.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAewBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:07:19.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\CustomerDAO.cs",
+              "ToolTip": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\CustomerDAO.cs",
+              "RelativeToolTip": "PuntoVenta\\CustomerDAO.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA0wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:06:14.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDAO.cs",
+              "DocumentMoniker": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\LoginDAO.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\LoginDAO.cs",
+              "ToolTip": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\LoginDAO.cs",
+              "RelativeToolTip": "PuntoVenta\\LoginDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:02:04.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseDAO.cs",
+              "DocumentMoniker": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\BaseDAO.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\BaseDAO.cs",
+              "ToolTip": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\BaseDAO.cs",
+              "RelativeToolTip": "PuntoVenta\\BaseDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:00:47.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\Clientes.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\Clientes.cs",
+              "ToolTip": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\Clientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PuntoVenta\\Clientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:42:07.674Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Nota.cs",
+              "DocumentMoniker": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\Nota.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\Nota.cs",
+              "ToolTip": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\Nota.cs",
+              "RelativeToolTip": "PuntoVenta\\Nota.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:23:26.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Nota.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\Nota.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\Nota.cs",
+              "ToolTip": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\Nota.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PuntoVenta\\Nota.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:17:44.292Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\Form1.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\Form1.cs",
+              "ToolTip": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\Form1.cs",
+              "RelativeToolTip": "PuntoVenta\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:43:17.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TIENDAcs.cs",
+              "DocumentMoniker": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\TIENDAcs.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\TIENDAcs.cs",
+              "ToolTip": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\TIENDAcs.cs",
+              "RelativeToolTip": "PuntoVenta\\TIENDAcs.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:26:49.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TIENDAcs.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\TIENDAcs.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\TIENDAcs.cs",
+              "ToolTip": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\TIENDAcs.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PuntoVenta\\TIENDAcs.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:50:44.336Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\Form1.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\Form1.cs",
+              "ToolTip": "C:\\Users\\max_u\\Desktop\\GERMAN BD\\PROYECTO UNIDAD 4\\PuntoVenta\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PuntoVenta\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:20:42.151Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1243,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
